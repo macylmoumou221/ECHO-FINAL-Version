@@ -36,14 +36,7 @@ Créer un environnement numérique unifié permettant aux membres de la communau
 * **Ikram KHALED** — UI/UX Designer & Frontend Developer
 * **Souhail LOUNISSI** — Frontend Developer & UX Contributor
 
-### 🚀 Évolutions Futures
 
-* Intégration de **mini-jeux éducatifs et collaboratifs**
-* Système de **notation et d’évaluation communautaire** des publications et enseignants
-* **Outils de gestion de projets académiques** et suivi des tâches
-* Développement d’**outils académiques interactifs** (grades, documents, ressources)
-* **Ouverture à d’autres établissements** pour la collaboration interuniversitaire
-* Amélioration de l’accessibilité et version mobile optimisée
 
 ### 📫 Contact
 
@@ -89,14 +82,6 @@ To create a unified digital environment where academic community members can int
 * **Ikram KHALED** — UI/UX Designer & Frontend Developer
 * **Souhail LOUNISSI** — Frontend Developer & UX Contributor
 
-### 🚀 Future Evolutions
-
-* Integration of **educational and collaborative mini-games**
-* **User rating and feedback system** for posts and teachers
-* **Academic project management tools** and task tracking
-* Development of **interactive academic tools** (grades, documents, resources)
-* **Expansion to other institutions** for inter-school collaboration
-* Improved accessibility and mobile optimization
 
 ### 📫 Contact
 
